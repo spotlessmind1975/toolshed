@@ -1,2 +1,5 @@
 build/unix/decb/decb
+build/unix/cecb/cecb
+build/unix/os9/os9
+build/unix/tocgen/tocgen
 
